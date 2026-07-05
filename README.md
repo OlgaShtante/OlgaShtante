@@ -1,6 +1,4 @@
-# Olga Shtante
-
-### Strategy · Exploration · Quality · Automation
+# Strategy · Exploration · Quality · Automation
 
 `JavaScript / Node.js` · `WebdriverIO` · `Playwright` · `Python` · `CI/CD`
 
