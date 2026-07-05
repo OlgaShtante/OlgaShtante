@@ -1,6 +1,6 @@
 # Strategy · Exploration · Quality · Automation
 
-`JavaScript / Node.js` · `WebdriverIO` · `Playwright` · `Python / pytest` · `API testing` · `CI/CD` ·  
+`JavaScript / Node.js` · `WebdriverIO` · `Playwright` · `Python / pytest` · `CI/CD` ·  `API testing` · `DB testing`
 As for  `C#/.NET` automation: worked with it, happy to help teams migrate from it to Node.js or Python
 
 ---
